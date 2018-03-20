@@ -1,0 +1,13 @@
+{
+  "generator-craft-banner": {
+    "nameSpace": "Test",
+    "publisher": "doubleclick",
+    "bannerName": "test",
+    "width": "300",
+    "height": "250",
+    "size": "150",
+    "includeFallbackIE": true,
+    "fallbackIEVersion": 9,
+    "doubleclickPlatform": "campaignManager"
+  }
+}
