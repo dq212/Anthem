@@ -1,0 +1,25 @@
+Instructions for building an MSG file.
+
+Design and layout art for HTML using the template in this folder, using HTML and Litmus code for HTML Email compatibility.
+
+Then...
+
+Upload or copy to pc. 
+
+Get on a PC. Open the page in a browser (Chrome works well).
+
+Select All, Copy 
+
+Create new blank Outlook email.
+
+Insert a table (3 column, centered)
+
+Paste into center column.
+
+Check alignments and copy.
+
+Save as MSG (Outlook Message Format)
+
+Attache and send.
+
+

@@ -1,0 +1,13 @@
+{
+  "generator-craft-banner": {
+    "nameSpace": "Anthem",
+    "publisher": "doubleclick",
+    "bannerName": "Mobile_320x50",
+    "width": "320",
+    "height": "50",
+    "size": "150",
+    "includeFallbackIE": true,
+    "fallbackIEVersion": 9,
+    "doubleclickPlatform": "campaignManager"
+  }
+}

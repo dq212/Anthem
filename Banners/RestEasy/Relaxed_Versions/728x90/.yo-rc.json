@@ -1,0 +1,13 @@
+{
+  "generator-craft-banner": {
+    "nameSpace": "Anthem",
+    "publisher": "doubleclick",
+    "bannerName": "AnthemBCBS_LGAcq_Generic_728x90",
+    "width": "728",
+    "height": "90",
+    "size": "150",
+    "includeFallbackIE": true,
+    "fallbackIEVersion": 9,
+    "doubleclickPlatform": "campaignManager"
+  }
+}
