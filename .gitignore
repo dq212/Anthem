@@ -1,4 +1,7 @@
 .psd
 node_modules/
+/node_modules/
 /Assets/
 .DS_Store
+*.psd
+/.psd
